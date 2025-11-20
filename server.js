@@ -3,6 +3,8 @@ import mongoose from "mongoose";
 import dotenv from "dotenv";
 import cors from "cors";
 import Question from "./models/Question.js";
+import Score from "./models/Score.js";
+
 
 dotenv.config();
 
@@ -43,3 +45,15 @@ app.get("/api/questions/:domain", async (req, res) => {
 app.listen(process.env.PORT, () =>
   console.log(`Server running on port ${process.env.PORT}`)
 );
+// SAVE SCORE
+app.post("/api/score", async (req, res) => {
+  try {
+    const { username, domain, score, total } = req.body;
+
+    await Score.create({ username, domain, score, total });
+
+    res.json({ success: true, message: "Score saved successfully ✔" });
+  } catch (err) {
+    res.status(500).json({ error: "Server Error" });
+  }
+});
