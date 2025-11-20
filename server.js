@@ -46,14 +46,20 @@ app.listen(process.env.PORT, () =>
   console.log(`Server running on port ${process.env.PORT}`)
 );
 // SAVE SCORE
-app.post("/api/score", async (req, res) => {
+app.post("/api/score/save", async (req, res) => {
   try {
     const { username, domain, score, total } = req.body;
 
-    await Score.create({ username, domain, score, total });
+    const newScore = new Score({ username, domain, score, total });
+    await newScore.save();
 
-    res.json({ success: true, message: "Score saved successfully ✔" });
+    res.json({ message: "Score saved successfully" });
   } catch (err) {
-    res.status(500).json({ error: "Server Error" });
+    res.status(500).json({ error: "Error saving score" });
   }
 });
+app.get("/api/score/all", async (req, res) => {
+  const allScores = await Score.find();
+  res.json(allScores);
+});
+
