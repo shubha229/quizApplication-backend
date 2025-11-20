@@ -1,0 +1,485 @@
+[
+  {
+    "domain": "html",
+    "id": 1,
+    "q": "What does HTML stand for?",
+    "options": ["Hyperlinks and Text Markup Language","Hyper Text Markup Language","Home Tool Markup Language","Hyperlinking Text Markup Language"],
+    "answerIndex": 1
+  },
+  {
+    "domain": "html",
+    "id": 2,
+    "q": "Which tag is used for the largest heading?",
+    "options": ["<h1>","<h6>","<head>","<heading>"],
+    "answerIndex": 0
+  },
+  {
+    "domain": "html",
+    "id": 3,
+    "q": "Which tag inserts a line break?",
+    "options": ["<break>","<lb>","<br>","<line>"],
+    "answerIndex": 2
+  },
+  {
+    "domain": "html",
+    "id": 4,
+    "q": "Which attribute provides alternative text for an image?",
+    "options": ["title","alt","src","caption"],
+    "answerIndex": 1
+  },
+  {
+    "domain": "html",
+    "id": 5,
+    "q": "Which tag is used to create a hyperlink?",
+    "options": ["<a>","<link>","<href>","<url>"],
+    "answerIndex": 0
+  },
+  {
+    "domain": "html",
+    "id": 6,
+    "q": "Which tag represents a table row?",
+    "options": ["<row>","<td>","<tr>","<table-row>"],
+    "answerIndex": 2
+  },
+  {
+    "domain": "html",
+    "id": 7,
+    "q": "Which element is used to embed JavaScript?",
+    "options": ["<js>","<javascript>","<script>","<code>"],
+    "answerIndex": 2
+  },
+  {
+    "domain": "html",
+    "id": 8,
+    "q": "Which tag is used for an unordered list?",
+    "options": ["<ul>","<ol>","<li>","<list>"],
+    "answerIndex": 0
+  },
+  {
+    "domain": "html",
+    "id": 9,
+    "q": "Which tag is used for bold text?",
+    "options": ["<strong>","<b>","<bold>","Both <strong> and <b>"],
+    "answerIndex": 3
+  },
+  {
+    "domain": "html",
+    "id": 10,
+    "q": "Which tag is used for metadata?",
+    "options": ["<meta>","<head>","<info>","<data>"],
+    "answerIndex": 0
+  },
+  {
+    "domain": "html",
+    "id": 11,
+    "q": "Which element defines navigation links?",
+    "options": ["<nav>","<navigate>","<links>","<menu>"],
+    "answerIndex": 0
+  },
+  {
+    "domain": "html",
+    "id": 12,
+    "q": "Which HTML5 tag is used for video playback?",
+    "options": ["<media>","<movie>","<video>","<play>"],
+    "answerIndex": 2
+  },
+  {
+    "domain": "html",
+    "id": 13,
+    "q": "Which tag displays preformatted text?",
+    "options": ["<text>","<pre>","<code>","<format>"],
+    "answerIndex": 1
+  },
+  {
+    "domain": "html",
+    "id": 14,
+    "q": "Which element groups block-level content?",
+    "options": ["<div>","<span>","<section>","<group>"],
+    "answerIndex": 0
+  },
+  {
+    "domain": "html",
+    "id": 15,
+    "q": "Which is NOT a semantic tag?",
+    "options": ["<article>","<footer>","<header>","<bold>"],
+    "answerIndex": 3
+  },
+  {
+    "domain": "css",
+    "id": 1,
+    "q": "Which property changes text color?",
+    "options": ["text-color","font-color","color","fgcolor"],
+    "answerIndex": 2
+  },
+  {
+    "domain": "css",
+    "id": 2,
+    "q": "What does CSS stand for?",
+    "options": ["Creative Style Sheets","Cascading Style Sheets","Computer Style Sheets","Colorful Style Sheets"],
+    "answerIndex": 1
+  },
+  {
+    "domain": "css",
+    "id": 3,
+    "q": "Which property changes background color?",
+    "options": ["bgcolor","background","background-color","color-background"],
+    "answerIndex": 2
+  },
+  {
+    "domain": "css",
+    "id": 4,
+    "q": "Which unit is relative to the root font size?",
+    "options": ["em","rem","%","px"],
+    "answerIndex": 1
+  },
+  {
+    "domain": "css",
+    "id": 5,
+    "q": "Which selector targets an ID?",
+    "options": [".","*","#","&"],
+    "answerIndex": 2
+  },
+  {
+    "domain": "css",
+    "id": 6,
+    "q": "Which property controls text size?",
+    "options": ["font-style","text-size","font-size","size"],
+    "answerIndex": 2
+  },
+  {
+    "domain": "css",
+    "id": 7,
+    "q": "Which property makes text bold?",
+    "options": ["font-bold","font-weight","text-style","bold"],
+    "answerIndex": 1
+  },
+  {
+    "domain": "css",
+    "id": 8,
+    "q": "Which layout uses flexbox?",
+    "options": ["display: box;","display: flex;","position: flex;","layout: flex;"],
+    "answerIndex": 1
+  },
+  {
+    "domain": "css",
+    "id": 9,
+    "q": "Which property adds space inside an element?",
+    "options": ["margin","padding","spacing","border"],
+    "answerIndex": 1
+  },
+  {
+    "domain": "css",
+    "id": 10,
+    "q": "Which property hides an element?",
+    "options": ["display: hidden;","hide: true;","visibility: hidden;","opacity: 100;"],
+    "answerIndex": 2
+  },
+  {
+    "domain": "css",
+    "id": 11,
+    "q": "Which is a valid media query?",
+    "options": ["@responsive","@screen-size","@media (max-width:600px)","@device-width"],
+    "answerIndex": 2
+  },
+  {
+    "domain": "css",
+    "id": 12,
+    "q": "Which property sets a shadow?",
+    "options": ["text-shadow","shadow","box-shadow","element-shadow"],
+    "answerIndex": 2
+  },
+  {
+    "domain": "css",
+    "id": 13,
+    "q": "Which property changes cursor appearance?",
+    "options": ["cursor","pointer","mouse","icon"],
+    "answerIndex": 0
+  },
+  {
+    "domain": "css",
+    "id": 14,
+    "q": "Which value makes text uppercase?",
+    "options": ["text-case: upper","transform: upper","text-transform: uppercase","font-style: caps"],
+    "answerIndex": 2
+  },
+  {
+    "domain": "css",
+    "id": 15,
+    "q": "Which is NOT a CSS position value?",
+    "options": ["static","relative","fixed","float"],
+    "answerIndex": 3
+  },
+
+  {
+    "domain": "javascript",
+    "id": 1,
+    "q": "Which keyword declares block-scoped variables?",
+    "options": ["var","let","define","int"],
+    "answerIndex": 1
+  },
+  {
+    "domain": "javascript",
+    "id": 2,
+    "q": "What is typeof null?",
+    "options": ["null","object","undefined","string"],
+    "answerIndex": 1
+  },
+  {
+    "domain": "javascript",
+    "id": 3,
+    "q": "Which array method adds to the end?",
+    "options": ["push()","pop()","shift()","unshift()"],
+    "answerIndex": 0
+  },
+  {
+    "domain": "javascript",
+    "id": 4,
+    "q": "How to write an arrow function?",
+    "options": ["function => {}","() => {}","() => []","() -> {}"],
+    "answerIndex": 1
+  },
+  {
+    "domain": "javascript",
+    "id": 5,
+    "q": "Which operator checks strict equality?",
+    "options": ["==","!=","===","="],
+    "answerIndex": 2
+  },
+  {
+    "domain": "javascript",
+    "id": 6,
+    "q": "Which method converts JSON to object?",
+    "options": ["JSON.convert()","JSON.parse()","JSON.object()","JSON.stringify()"],
+    "answerIndex": 1
+  },
+  {
+    "domain": "javascript",
+    "id": 7,
+    "q": "Which symbol starts a template string?",
+    "options": ["'","\"","`","~"],
+    "answerIndex": 2
+  },
+  {
+    "domain": "javascript",
+    "id": 8,
+    "q": "Which loop runs at least once?",
+    "options": ["for","while","do...while","foreach"],
+    "answerIndex": 2
+  },
+  {
+    "domain": "javascript",
+    "id": 9,
+    "q": "What does DOM stand for?",
+    "options": ["Document Object Model","Data Object Module","Digital Online Model","Document Order Module"],
+    "answerIndex": 0
+  },
+  {
+    "domain": "javascript",
+    "id": 10,
+    "q": "Which method selects an element by ID?",
+    "options": ["queryId()","getElementById()","selectId()","findId()"],
+    "answerIndex": 1
+  },
+  {
+    "domain": "javascript",
+    "id": 11,
+    "q": "Which value is NOT falsey?",
+    "options": ["0","null","undefined","\"false\""],
+    "answerIndex": 3
+  },
+  {
+    "domain": "javascript",
+    "id": 12,
+    "q": "Which runs async code?",
+    "options": ["setTimeout()","sleep()","pause()","delay()"],
+    "answerIndex": 0
+  },
+  {
+    "domain": "javascript",
+    "id": 13,
+    "q": "Which is a JavaScript framework?",
+    "options": ["Laravel","Django","React","Flask"],
+    "answerIndex": 2
+  },
+  {
+    "domain": "javascript",
+    "id": 14,
+    "q": "Which method removes last array element?",
+    "options": ["remove()","delete()","pop()","shift()"],
+    "answerIndex": 2
+  },
+  {
+    "domain": "javascript",
+    "id": 15,
+    "q": "Which symbol is used for comments?",
+    "options": ["<!-- -->","//","##","/*/"],
+    "answerIndex": 1
+  },
+
+  {
+    "domain": "git",
+    "id": 1,
+    "q": "Command to initialize a repo?",
+    "options": ["git start","git init","git new","git create"],
+    "answerIndex": 1
+  },
+  {
+    "domain": "git",
+    "id": 2,
+    "q": "Command to check status?",
+    "options": ["git info","git log","git status","git check"],
+    "answerIndex": 2
+  },
+  {
+    "domain": "git",
+    "id": 3,
+    "q": "Command to stage files?",
+    "options": ["git add","git stage","git commit","git track"],
+    "answerIndex": 0
+  },
+  {
+    "domain": "git",
+    "id": 4,
+    "q": "Command to commit changes?",
+    "options": ["git save","git commit -m","git record","git push"],
+    "answerIndex": 1
+  },
+  {
+    "domain": "git",
+    "id": 5,
+    "q": "Command to check history?",
+    "options": ["git past","git history","git log","git list"],
+    "answerIndex": 2
+  },
+  {
+    "domain": "git",
+    "id": 6,
+    "q": "Command to create branch?",
+    "options": ["git create branch","git branch","git new branch","git br"],
+    "answerIndex": 1
+  },
+  {
+    "domain": "git",
+    "id": 7,
+    "q": "Command to switch branch?",
+    "options": ["git checkout","git move","git shift","git go"],
+    "answerIndex": 0
+  },
+  {
+    "domain": "git",
+    "id": 8,
+    "q": "Command to merge branch?",
+    "options": ["git mix","git join","git merge","git combine"],
+    "answerIndex": 2
+  },
+  {
+    "domain": "git",
+    "id": 9,
+    "q": "Command to clone repo?",
+    "options": ["git download","git clone","git get","git pull"],
+    "answerIndex": 1
+  },
+  {
+    "domain": "git",
+    "id": 10,
+    "q": "Command to push changes?",
+    "options": ["git upload","git push","git send","git deliver"],
+    "answerIndex": 1
+  },
+  {
+    "domain": "git",
+    "id": 11,
+    "q": "Command to pull updates?",
+    "options": ["git receive","git pull","git fetch","git update"],
+    "answerIndex": 1
+  },
+  {
+    "domain": "git",
+    "id": 12,
+    "q": "Command to remove file from git?",
+    "options": ["git delete","git rm","git erase","git purge"],
+    "answerIndex": 1
+  },
+  {
+    "domain": "git",
+    "id": 13,
+    "q": "Command to list branches?",
+    "options": ["git branches","git list","git show","git branch"],
+    "answerIndex": 3
+  },
+  {
+    "domain": "git",
+    "id": 14,
+    "q": "Command to stash changes?",
+    "options": ["git hide","git store","git stash","git keep"],
+    "answerIndex": 2
+  },
+  {
+    "domain": "git",
+    "id": 15,
+    "q": "Command to remove last commit (safe)?",
+    "options": ["git reset --soft HEAD~1","git delete commit","git undo","git rollback"],
+    "answerIndex": 0
+  },
+  {"domain":"python","id":1,"q":"Which keyword defines a function?","options":["func","function","def","lambda"],"answerIndex":2},
+  {"domain":"python","id":2,"q":"Python is ___ typed language.","options":["Weakly","Strongly","Statically","Loosely"],"answerIndex":1},
+  {"domain":"python","id":3,"q":"Which collection is ordered & mutable?","options":["tuple","list","set","dict"],"answerIndex":1},
+  {"domain":"python","id":4,"q":"Which symbol starts a comment?","options":["//","#","/* */","<!--"],"answerIndex":1},
+  {"domain":"python","id":5,"q":"Which converts string to integer?","options":["str()","int()","float()","eval()"],"answerIndex":1},
+  {"domain":"python","id":6,"q":"Which creates a dictionary?","options":["[]","()","{}","<>"],"answerIndex":2},
+  {"domain":"python","id":7,"q":"Which operator checks equality?","options":["=","==","===","!"],"answerIndex":1},
+  {"domain":"python","id":8,"q":"Which loop runs until condition false?","options":["for","repeat","while","loop"],"answerIndex":2},
+  {"domain":"python","id":9,"q":"What is output of len(\"hello\")?","options":["4","5","6","None"],"answerIndex":1},
+  {"domain":"python","id":10,"q":"Which module handles math operations?","options":["calculate","math","numbers","calc"],"answerIndex":1},
+  {"domain":"python","id":11,"q":"Which keyword handles exceptions?","options":["catch","throw","error","try"],"answerIndex":3},
+  {"domain":"python","id":12,"q":"Which operator is used for exponent?","options":["^","**","exp","power"],"answerIndex":1},
+  {"domain":"python","id":13,"q":"Which is immutable?","options":["list","tuple","set","dict"],"answerIndex":1},
+  {"domain":"python","id":14,"q":"Which prints output?","options":["echo()","console()","print()","display()"],"answerIndex":2},
+  {"domain":"python","id":15,"q":"Which keyword creates class?","options":["make","class","struct","object"],"answerIndex":1},
+  {"domain":"java","id":1,"q":"Entry point of Java program?","options":["start()","run()","void main()","public static void main(String[] args)"],"answerIndex":3},
+  {"domain":"java","id":2,"q":"Java is ___ typed language.","options":["dynamically","statically","loosely","weakly"],"answerIndex":1},
+  {"domain":"java","id":3,"q":"Which is NOT Java keyword?","options":["class","static","new","this()"],"answerIndex":3},
+  {"domain":"java","id":4,"q":"Which creates object?","options":["make()","build()","new","create()"],"answerIndex":2},
+  {"domain":"java","id":5,"q":"Which is OOP concept?","options":["Encapsulation","Installation","Virtualization","Execution"],"answerIndex":0},
+  {"domain":"java","id":6,"q":"Which is not a primitive type?","options":["int","float","String","boolean"],"answerIndex":2},
+  {"domain":"java","id":7,"q":"Which operator compares values?","options":["=","==","===","<>"],"answerIndex":1},
+  {"domain":"java","id":8,"q":"Which loop ensures at least one execution?","options":["for","while","do…while","repeat"],"answerIndex":2},
+  {"domain":"java","id":9,"q":"Which keyword inherits a class?","options":["inherit","extends","implements","take"],"answerIndex":1},
+  {"domain":"java","id":10,"q":"Which is Interface keyword?","options":["interface","implements","module","contract"],"answerIndex":0},
+  {"domain":"java","id":11,"q":"Which organizes classes?","options":["folders","packages","libraries","sets"],"answerIndex":1},
+  {"domain":"java","id":12,"q":"Which defines constant?","options":["constant","final","static","const"],"answerIndex":1},
+  {"domain":"java","id":13,"q":"Which handles errors?","options":["try-catch","if-else","logic","handler"],"answerIndex":0},
+  {"domain":"java","id":14,"q":"JVM stands for?","options":["Java Virtual Machine","Java Variable Machine","Just Virtual Machine","Java Vendor Machine"],"answerIndex":0},
+  {"domain":"java","id":15,"q":"Which is not loop?","options":["for","repeat","while","do-while"],"answerIndex":1},
+  {"domain":"dsa","id":1,"q":"FIFO is used in:","options":["Stack","Queue","Tree","Graph"],"answerIndex":1},
+  {"domain":"dsa","id":2,"q":"Which uses LIFO?","options":["Queue","Tree","Stack","Heap"],"answerIndex":2},
+  {"domain":"dsa","id":3,"q":"Which is linear structure?","options":["Tree","Graph","Stack","Heap"],"answerIndex":2},
+  {"domain":"dsa","id":4,"q":"Binary search requires:","options":["Sorted array","Unsorted array","Any array","Empty array"],"answerIndex":0},
+  {"domain":"dsa","id":5,"q":"Full form of BFS?","options":["Binary First Scan","Breadth First Search","Basic File System","Broad Fast Scan"],"answerIndex":1},
+  {"domain":"dsa","id":6,"q":"Full form of DFS?","options":["Deep First Scan","Depth First Search","Direct File Scan","Deep File System"],"answerIndex":1},
+  {"domain":"dsa","id":7,"q":"Which structure is hierarchical?","options":["Queue","Tree","Array","Stack"],"answerIndex":1},
+  {"domain":"dsa","id":8,"q":"Which is non-linear?","options":["Array","Stack","Linked List","Graph"],"answerIndex":3},
+  {"domain":"dsa","id":9,"q":"QuickSort average time?","options":["O(n)","O(n log n)","O(n²)","O(log n)"],"answerIndex":1},
+  {"domain":"dsa","id":10,"q":"Which supports random access?","options":["Array","Linked List","Queue","Stack"],"answerIndex":0},
+  {"domain":"dsa","id":11,"q":"Height of single node tree:","options":["0","1","2","-1"],"answerIndex":0},
+  {"domain":"dsa","id":12,"q":"Binary tree max children:","options":["1","2","3","4"],"answerIndex":1},
+  {"domain":"dsa","id":13,"q":"Which removes from front?","options":["Pop","Dequeue","Shift","DeleteFirst"],"answerIndex":1},
+  {"domain":"dsa","id":14,"q":"Heap is used in:","options":["DFS","BFS","Priority Queue","Hashing"],"answerIndex":2},
+  {"domain":"dsa","id":15,"q":"Hashing provides:","options":["Slow search","Random search","Fast search","Linear search"],"answerIndex":2},
+  {"domain":"general","id":1,"q":"Which is the largest continent?","options":["Africa","Asia","Europe","Australia"],"answerIndex":1},
+  {"domain":"general","id":2,"q":"Who wrote the National Anthem of India?","options":["Bankim Chandra","Sarojini Naidu","Rabindranath Tagore","Mahatma Gandhi"],"answerIndex":2},
+  {"domain":"general","id":3,"q":"Which planet is known as the Red Planet?","options":["Mars","Jupiter","Saturn","Venus"],"answerIndex":0},
+  {"domain":"general","id":4,"q":"What is the capital of Japan?","options":["Tokyo","Kyoto","Osaka","Hiroshima"],"answerIndex":0},
+  {"domain":"general","id":5,"q":"Which is the longest river in the world?","options":["Amazon","Nile","Yangtze","Ganga"],"answerIndex":1},
+  {"domain":"general","id":6,"q":"Who invented the telephone?","options":["Thomas Edison","Alexander Graham Bell","Newton","Einstein"],"answerIndex":1},
+  {"domain":"general","id":7,"q":"Which country hosts the Taj Mahal?","options":["India","Pakistan","Bangladesh","Nepal"],"answerIndex":0},
+  {"domain":"general","id":8,"q":"Which is the smallest ocean?","options":["Indian","Pacific","Arctic","Atlantic"],"answerIndex":2},
+  {"domain":"general","id":9,"q":"Which is the national animal of India?","options":["Lion","Tiger","Elephant","Peacock"],"answerIndex":1},
+  {"domain":"general","id":10,"q":"The Great Wall is located in which country?","options":["India","Japan","China","Korea"],"answerIndex":2},
+  {"domain":"general","id":11,"q":"Which gas do plants release during photosynthesis?","options":["Oxygen","Nitrogen","Carbon Dioxide","Helium"],"answerIndex":0},
+  {"domain":"general","id":12,"q":"Which instrument measures earthquakes?","options":["Thermometer","Seismograph","Barometer","Hygrometer"],"answerIndex":1},
+  {"domain":"general","id":13,"q":"Which currency is used in the USA?","options":["Euro","Dollar","Pound","Peso"],"answerIndex":1},
+  {"domain":"general","id":14,"q":"Which continent is the Sahara Desert located in?","options":["Asia","Africa","Australia","South America"],"answerIndex":1},
+  {"domain":"general","id":15,"q":"Which festival is known as the festival of lights?","options":["Holi","Eid","Diwali","Christmas"],"answerIndex":2}
+]
+
