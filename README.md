@@ -1,4 +1,4 @@
-# 🧠 Quiz Application Backend  
+# 🧠 Quiz Application giveBackend  
 A lightweight Node.js + Express backend for a dynamic quiz platform.  
 Handles question fetching, domain listing, and score storage in MongoDB.
 
@@ -12,3 +12,10 @@ https://github.com/shubha229/quiz_frontend
 - 📊 Retrieve all stored scores  
 - 🗄 MongoDB Atlas integrated  
 - 🌐 CORS enabled (Render/Frontend friendly)  
+
+## 🛠️ Tech Stack
+
+- 🟩 Node.js + Express.js – API layer for domains, questions, and score handling
+- 🗄️ MongoDB Atlas – Cloud database storing questions & quiz scores
+- 🧩 Mongoose – Schema modeling & database interaction (ODM)
+- 🚀 Render Web Service – Deployment platform for hosting the backend API
