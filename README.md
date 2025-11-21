@@ -1,4 +1,4 @@
-# 🧠 Quiz Application giveBackend  
+# 🧠 Quiz Application Backend  
 A lightweight Node.js + Express backend for a dynamic quiz platform.  
 Handles question fetching, domain listing, and score storage in MongoDB.
 
